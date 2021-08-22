@@ -15,3 +15,9 @@ a "dokuwiki" folder in the root dir.
 Note: you can get a Win10 VM directly from Microsoft for testing:
 
     wget https://aka.ms/windev_VM_virtualbox
+
+This Fork
+---------
+
+Add support for Apache Alias and directory browing.  These require, as I
+understand, Apache modules mod_alias and mod_autoindex.
